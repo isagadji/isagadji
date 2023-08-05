@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**isagadji/isagadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Isa Nazhmudinov, Backend Developer focusing on PHP and Golang.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Magnit](https://vk.tech/)
+- 📫 How to reach me: [arxell](http://t.me/isagadji)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IT experience
+
+- PHP developer about 7 years
+- Golang developer about 1 years
+
+Another social networks
+
+- [linkedin](https://www.linkedin.com/in/isagadji/)
