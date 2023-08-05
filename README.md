@@ -2,8 +2,8 @@
 
 I'm a Isa Nazhmudinov, Backend Developer focusing on PHP and Golang.
 
-- 🔭 I’m currently working on [Magnit](https://vk.tech/)
-- 📫 How to reach me: [arxell](http://t.me/isagadji)
+- 🔭 I’m currently working on [VK](https://vk.tech/)
+- 📫 How to reach me: [isagadji](http://t.me/isagadji)
 
 IT experience
 
