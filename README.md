@@ -4,7 +4,7 @@ I'm a Isa Nazhmudinov, Backend Developer focusing on PHP and Golang.
 
 - 💻 I’m currently working on [VK](https://vk.tech/)
 - ✉️ How to reach me: [isagadji](http://t.me/isagadji)
-- 📄 Resume: [isagadji.github.io](isagadji.github.io)
+- 📄 Resume: [isagadji.github.io](https://isagadji.github.io)
 
 IT experience
 
